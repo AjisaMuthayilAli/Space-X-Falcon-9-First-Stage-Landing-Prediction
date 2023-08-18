@@ -9,4 +9,4 @@ Lab 4_Exploratory Data Anaylysis using SQL: In this lab EDA was done to analyse 
 Lab 5_EDA_Data Visualisation: performed exploratory Data Analysis and Feature Engineering using Pandas and Matplotlib.\n
 Lab 6_LaunchSite Analysis using Folium: performed interactive visual analytics using Folium. In this lab marked all launch sites on a map, marked the success/failed launches for each site on the map and calculate the distances between a launch site to its proximities to find some geographical patterns about launch sites.\n
 Lab 7_Dashboard an interactive app using Plotly Dash: In this lab, a Plotly Dash application was built for users to perform interactive visual analytics on SpaceX launch data in real-time.\n
-Lab 8: In this lab, a machine learning pipeline was created to predict if the first stage will land given the data from the preceding labs.\n
+Lab 8: In this lab, a machine learning pipeline was created to predict if the first stage will land given the data from the preceding labs.
