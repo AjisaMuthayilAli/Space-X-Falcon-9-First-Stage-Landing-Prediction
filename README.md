@@ -6,7 +6,7 @@ This project involves data collection, data wrangling, data scraping, data visua
 
 Lab 1_Data Collection: Objectives of this lab were to 'Request to the SpaceX API' and 'Clean the requested data'. Cleaning the data included converting into datetime type, filtering the falcon 9 dataset from the dataset, dealing with missing data etc.
 
-Lab 2_Web Scraping:  In this lab web scraping was done using BeautifulSoup to collect Falcon 9 historical launch records from a Wikipedia page titled List of Falcon 9 and Falcon Heavy launches 'https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches'. Extracted Falcon 9 launch records in HTML table from Wikipedia, parsed the table and converted it into a Pandas data frame.
+Lab 2_Web Scraping:  In this lab web scraping was done using BeautifulSoup to collect Falcon 9 historical launch records from a [Wikipedia page titled List of Falcon 9 and Falcon Heavy launches](https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches). Extracted Falcon 9 launch records in HTML table from Wikipedia, parsed the table and converted it into a Pandas data frame.
 
 Lab 3_Data Wrangling: exploratory Data Analysis (EDA) was done to find some patterns in the data and determine what would be the label for training supervised models.
 
